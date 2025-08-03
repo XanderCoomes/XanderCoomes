@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-<!--
+I'm junior studying Computer Sciene at UCSB
+I'm interested in cryptography and machine learning
+I'm currently working on an undetectable watermark for content created by GenAI
+
+
 **XanderCoomes/XanderCoomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
